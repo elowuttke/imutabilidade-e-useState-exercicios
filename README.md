@@ -20,11 +20,11 @@ Caso queira criar uma nova aplicação React, basta copiar os conteúdos deste r
 Primeiro, vamos analisar todo o código que vocês estão recebendo. 
 
 - Observe o `App.js`, o que você consegue visualizar que já conhece? 
-- Entende o `<GlobalStyles/>`?
-- Analize o useState criado, que tipo de dado está armazenado neste estado?
+- Entende o `<GlobalStyles/>`?  Sim
+- Analize o useState criado, que tipo de dado está armazenado neste estado?  Objrto
 
 - Agora analize o `JSX`, quais componentes existem nesta aplicação?
-- O que existe dentro do componente `PokemonCard`?
+- O que existe dentro do componente `PokemonCard`? 
 - O que a função `evoluirPokemon` está fazendo no momento?
 - Quais informações estão sendo recebidas pelo componente PokemonCard via props?
 
